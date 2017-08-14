@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * Created by Ian on 8/13/2017.
+ * Justin G
  */
 public class Main {
     public static void main(String[] args) {
