@@ -1,9 +1,8 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Created by Ian on 8/14/2017.
- */
+/*Justin G
+ **/
 public class Grade {
 
     public static ArrayList<Integer> inputGrades(Scanner scanner, ArrayList<Integer> grades) {
