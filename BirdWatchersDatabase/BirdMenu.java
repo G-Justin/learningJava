@@ -48,7 +48,7 @@ public class BirdMenu {
         }
     }
 
-    //Adds to the array bird_names, latin_names. The observation will be 0 at default.
+    //Adds a new Bird object to the ArrayList.
     public void addBird(Scanner scanner) {
         System.out.println("Bird name: ");
         String name = scanner.nextLine();
