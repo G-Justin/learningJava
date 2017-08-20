@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Created by Ian on 8/19/2017.
+ * Created by Justin on 8/19/2017.
  */
 public class Bird {
 
