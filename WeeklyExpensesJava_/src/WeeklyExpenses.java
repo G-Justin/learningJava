@@ -37,12 +37,11 @@ public class WeeklyExpenses {
         inputAllowance(scanner);                                //Sets the value for allowance.
 
         do {
-            int i = 1;
-            System.out.println("[WEEK " + i + "]");
-
+            
+            System.out.println("[WEEK]");
             newWeek();
 
-            i++;                                      // Will execute the main program at least once before
+                                               // Will execute the main program at least once before
     } while (calculateAgain(scanner));               // asking again.
 
         printOverallResults();
